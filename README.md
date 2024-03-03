@@ -9,6 +9,8 @@ ___
 2. Staging area (git add)
 3. Local Repository (git commit)
 4. Remote Repository (git push)
+
+![Yandex](https://pictures.s3.yandex.net/resources/M2_T5_1686651284.png)
 ___
 
 ## Базовые команды git
